@@ -25,11 +25,11 @@ img {
 
 /* style your grid sections here!  */
 
-.deondre {
+#deondre {
   background-color: blue;
 }
 
-.mycontainer img {
+#mycontainer img {
   max-width:30%;
 }
 
