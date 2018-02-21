@@ -26,11 +26,24 @@ img {
 /* style your grid sections here!  */
 
 #deondre {
-  background-color: blue;
+  background-color: #24aad7;
+}
+
+.deondrePic {
+  display: flex;
+  justify-content: center;
 }
 
 #mycontainer img {
-  max-width:30%;
+  max-width:100%;
+}
+
+.mycontactinfo h1 {
+
+}
+
+.wordBold {
+  font-weight: bold;
 }
 
 .myquote p {
