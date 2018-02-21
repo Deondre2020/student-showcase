@@ -35,5 +35,9 @@ img {
 }
 
 .mycontactinfo li {
+
+}
+
+.myquote p {
   font: italic small-caps bold 16px/2 cursive;
 }
